@@ -1,0 +1,2 @@
+add_lunch_combo omni_plane_7565n-eng
+add_lunch_combo omni_plane_7565n-userdebug
